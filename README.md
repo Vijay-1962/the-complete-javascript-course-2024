@@ -15,11 +15,16 @@ Hello my name is Vijay Kumar and i've created this repository to upload everythi
 - 02 Data Types  
   https://vijayrajputhp.wordpress.com/2023/12/08/data-types/  
 - 03 Let, Const and Var  
-  https://vijayrajputhp.wordpress.com/2023/12/08/let-const-and-var/  
+  https://vijayrajputhp.wordpress.com/2023/12/08/let-const-and-var/ 
+- 04 String Template Literal  
+  https://vijayrajputhp.wordpress.com/2023/12/26/strings-and-template-literals/   
   
   
 == Changelog ==  
   
+= 0.4.0 = 
+04 String Template Literal
+
 = 0.3.1 =  
 Adds Sections & Chapters to readme  
 Adds changelog to readme  
