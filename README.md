@@ -21,10 +21,12 @@ Hello my name is Vijay Kumar and i've created this repository to upload everythi
   
   
 == Changelog ==  
+= 0.4.1 =  
+Edited changelog in readme  
   
-= 0.4.0 = 
-04 String Template Literal
-
+= 0.4.0 =  
+04 String Template Literal  
+  
 = 0.3.1 =  
 Adds Sections & Chapters to readme  
 Adds changelog to readme  
