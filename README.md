@@ -18,14 +18,20 @@ Hello my name is Vijay Kumar and i've created this repository to upload everythi
   https://vijayrajputhp.wordpress.com/2023/12/08/let-const-and-var/ 
 - 04 String Template Literal  
   https://vijayrajputhp.wordpress.com/2023/12/26/strings-and-template-literals/   
+- 05 Taking Decisions  If Else Statements  
+  https://vijayrajputhp.wordpress.com/2023/12/27/taking-decisions-if-else-statements/   
   
   
 == Changelog ==  
+
+= 0.5.0 =  
+Taking Decisions  If Else Statements  
+
 = 0.4.1 =  
 Edited changelog in readme  
   
 = 0.4.0 =  
-04 String Template Literal  
+String Template Literal  
   
 = 0.3.1 =  
 Adds Sections & Chapters to readme  
