@@ -20,13 +20,17 @@ Hello my name is Vijay Kumar and i've created this repository to upload everythi
   https://vijayrajputhp.wordpress.com/2023/12/26/strings-and-template-literals/   
 - 05 Taking Decisions  If Else Statements  
   https://vijayrajputhp.wordpress.com/2023/12/27/taking-decisions-if-else-statements/   
-  
+- 06 Type Conversion and Coercion  
+  https://vijayrajputhp.wordpress.com/2023/12/28/type-conversion-and-coercion/    
   
 == Changelog ==  
 
+== 0.6.0 ==  
+Type Conversion and Coercion  
+  
 = 0.5.0 =  
 Taking Decisions  If Else Statements  
-
+  
 = 0.4.1 =  
 Edited changelog in readme  
   
