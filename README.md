@@ -22,9 +22,15 @@ Hello my name is Vijay Kumar and i've created this repository to upload everythi
   https://vijayrajputhp.wordpress.com/2023/12/27/taking-decisions-if-else-statements/   
 - 06 Type Conversion and Coercion  
   https://vijayrajputhp.wordpress.com/2023/12/28/type-conversion-and-coercion/    
+- 07 Equality Operators  
+  https://vijayrajputhp.wordpress.com/2023/12/30/equality-operator/    
   
 == Changelog ==  
-
+  
+  
+== 0.7.0 ==  
+Equality Operators  
+  
 == 0.6.0 ==  
 Type Conversion and Coercion  
   
