@@ -26,12 +26,17 @@ Hello my name is Vijay Kumar and i've created this repository to upload everythi
   https://vijayrajputhp.wordpress.com/2023/12/30/equality-operator/    
 - 08 Boolean Logic  
   https://vijayrajputhp.wordpress.com/2024/01/02/boolean-logic/    
-  
+- 09 Logical Operators  
+  https://vijayrajputhp.wordpress.com/2024/01/03/logical-operators/   
   
   
   
 == Changelog ==  
-
+  
+  
+  
+== 0.9.0 ==  
+Logical Operators  
 
 == 0.8.0 ==  
 Boolean Logic  
