@@ -28,12 +28,14 @@ Hello my name is Vijay Kumar and i've created this repository to upload everythi
   https://vijayrajputhp.wordpress.com/2024/01/02/boolean-logic/    
 - 09 Logical Operators  
   https://vijayrajputhp.wordpress.com/2024/01/03/logical-operators/   
-  
+- 10 The Switch Statement  
+  https://vijayrajputhp.wordpress.com/2024/01/04/the-switch-statement/  
   
   
 == Changelog ==  
   
-  
+== 0.10.0 ==  
+The Switch Statement  
   
 == 0.9.0 ==  
 Logical Operators  
