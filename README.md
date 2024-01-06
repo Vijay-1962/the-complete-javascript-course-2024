@@ -32,7 +32,8 @@ Hello my name is Vijay Kumar and i've created this repository to upload everythi
   https://vijayrajputhp.wordpress.com/2024/01/04/the-switch-statement/  
 - 11 Statements and Expressions  
   https://vijayrajputhp.wordpress.com/2024/01/05/statements-and-expressions/  
-  
+- 12 The Conditional Ternary Operator  
+  https://vijayrajputhp.wordpress.com/2024/01/06/the-conditional-ternary-operator/  
   
   
   
@@ -40,9 +41,13 @@ Hello my name is Vijay Kumar and i've created this repository to upload everythi
   
 == Changelog ==  
   
+== 0.12.0 ==  
+The Conditional Ternary Operator  
+JavaScript Fundamentals Part 1 --Ends  
+    
 == 0.11.0 ==  
 Statements and Expressions  
-
+  
 == 0.10.0 ==  
 The Switch Statement  
   
